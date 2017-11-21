@@ -60,3 +60,5 @@ cases by using a fixture.
 
 main.cpp:
 An all-in-one sample that shows various Boost.Test features.
+
+SingletonTest - Example BoostTest for class. Class Context is taken from another my repository - Grammar.
